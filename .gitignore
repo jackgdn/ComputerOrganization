@@ -3,3 +3,7 @@
 *.lst
 *.obj
 *.sym
+
+*.out
+*.swp
+*.txt
